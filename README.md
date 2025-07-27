@@ -17,7 +17,7 @@ A lightweight legal assistant chatbot fine-tuned on [Lawyer-Instruct](https://hu
 Launch the app locally:
 
 ```bash
-git clone https://github.com/your-username/phi2-legal-assistant
+git clone https://github.com/jasurme/Legal-fined-tuned-phi2
 cd phi2-legal-assistant
 pip install -r requirements.txt
 streamlit run app.py
